@@ -1,6 +1,6 @@
 {
-  "name": "number_guessing_game",
-  "version": "1.0.0",
+  "name": "number_guessing_game_heymi",
+  "version": "1.0.3",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -17,5 +17,6 @@
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.30"
-  }
+  },
+  "bin": "main.js"
 }
